@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E4E20D9-5BB6-407A-B504-CFC68338530B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DA98193-875B-4F88-B4D3-7A1106F43789"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final-C867/Student.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "Student::print()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9A42FD9-1ED1-4E20-8FA0-661541E31D60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final-C867/Student.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "Student::getSID()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9A42FD9-1ED1-4E20-8FA0-661541E31D60 - 943f23c9b39a0040"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Student::getSID()"
+                  moduleName = "Final-C867"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tboneil/Documents/MacBook-Pro-Documents/School%20Projects/WGU-BSCS/C867/C867-Project/Final-C867/Final-C867/Final-C867/Student.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "C9A42FD9-1ED1-4E20-8FA0-661541E31D60 - 943f23c9b39a1e11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Student::getSID()"
+                  moduleName = "Final-C867"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tboneil/Documents/MacBook-Pro-Documents/School%20Projects/WGU-BSCS/C867/C867-Project/Final-C867/Final-C867/Final-C867/Student.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00814B46-D3D5-4982-9212-CB04E3DDBDA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final-C867/Roster.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "Roster::add(studentID, firstName, lastName, studentEmail, age, avgDay1, avgDay2, avgDay3, degreeProgram)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C6B8423-6289-4896-A12A-4EDB9AB54074"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final-C867/Roster.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "Roster::parseData(stringData)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFBCF058-E9B7-445D-801E-A3B88FB82B6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final-C867/Roster.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "Roster::printInvalidEmails()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DFBCF058-E9B7-445D-801E-A3B88FB82B6F - 6a5b286ac27adb95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Roster::printInvalidEmails()"
+                  moduleName = "Final-C867"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tboneil/Documents/MacBook-Pro-Documents/School%20Projects/WGU-BSCS/C867/C867-Project/Final-C867/Final-C867/Final-C867/Roster.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "DFBCF058-E9B7-445D-801E-A3B88FB82B6F - 6a5b286ac27adbf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Roster::printInvalidEmails()"
+                  moduleName = "Final-C867"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tboneil/Documents/MacBook-Pro-Documents/School%20Projects/WGU-BSCS/C867/C867-Project/Final-C867/Final-C867/Final-C867/Roster.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
